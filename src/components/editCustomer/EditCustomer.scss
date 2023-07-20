@@ -1,0 +1,48 @@
+.edit__customer {
+    margin-top: 50px;
+}
+
+.edit__customer__container {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.edit__customer__heading {
+    color: #0F172A;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-bottom: 40px;
+}
+
+.edit__customer__form {
+    max-width: 500px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.edit__customer__form__wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.edit__customer__form input {
+    margin-bottom: 24px;
+}
+
+.edit__customer__form__label {
+    color: #475569;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px;
+    margin-bottom: 10px;
+}
